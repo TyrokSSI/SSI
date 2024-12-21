@@ -1,0 +1,13 @@
+[
+  {
+    "ID": 1,
+    "Title": "Program Notifications",
+    "Date": "22/12/24",
+    "Text": "This feature will notify you about program updates or important messages.\n\nIt is the only tool that connects, specifically to a GitHub-hosted JSON file.\n\nThe program connects only once when it starts, in order to retrieve the JSON file.\n\nIf, for any reason, you prefer not to use this feature, you can disable it in the settings. If you do so, the program will not connect online or attempt to do so. However, you will not receive notifications about program updates.",
+    "Code": false,
+    "Image": true,
+    "Image_Location": "local",
+    "Image_Location2": "News",
+    "Image_Type": "center"
+  }
+]
