@@ -9,5 +9,21 @@
     "Image_Location": "local",
     "Image_Location2": "News",
     "Image_Type": "center"
+  },
+  {
+    
+      "ID": 2,
+      "Title": "New Update 7.5",
+      "Date": "27/12/24",
+      "Text": "𝐕 𝟕.𝟓\n- Now the program will read all the .ini files in the main folder and all subfolders. (can be disabled in settings)\n- A problem was found in some users, that if a mod had more than one .ini file, and you pressed the .ini open button, it did not open, or it did not open with the program selected in settings. Fixed\n- Notes button, failed in some users, fixed\n- Some users show horizontal scroll in the right menu, and mods window, some changes in the interface to prevent this scroll from appearing, (this scroll should not appear) if it continues to appear, send me a message.\n- The settings interface has been redesigned.\n- Optional, you can receive messages about new skins or skin updates created by tyrok (activate in settings in messages option)\n- Other minor changes\n\nReminder: To update, just replace the files.\n\nClick on the button to go directly to the download link\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽 ",
+      "Code": true,
+      "ButtonCode": "OpenUrl",
+      "ButtonName": "Direct link Gamebanana",
+      "OpenUrl_Url": "https://gamebanana.com/tools/12839",
+      "Image": true,
+      "Image_Location": "local",
+      "Image_Location2": "SSI_2",
+      "Image_Type": "center"
   }
 ]
+
