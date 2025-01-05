@@ -27,7 +27,7 @@
   {
     "ID": 3,
     "Title": "New Update 7.6",
-    "Date": "05/01/24",
+    "Date": "05/01/25",
     "Text": "𝐕 𝟕.6\n- Now keyviewer will also read the .ini of the subfolders. (The option to read subfolders of .ini files must be activated)\n- In mod key names, the word \"key\" or \"keyswap\" may be omitted. You have to activate it in settings\n- It has also been omitted to read Desktop.ini, for users who have this file\n\nReminder: To update, just replace the files.\n\nClick on the button to go directly to the download link\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽 ",
     "Code": true,
     "ButtonCode": "OpenUrl",
