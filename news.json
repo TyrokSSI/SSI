@@ -49,5 +49,21 @@
     "Image_Location": "local",
     "Image_Location2": "Genshin_Off",
     "Image_Type": "center"
+  },
+      {
+    "ID": 5,
+    "Title": "HashList for Wuthering",
+    "Date": "06/01/24",
+    "Text": "HashList Keyviewer Update for Wuthering\n\nClick on the button to automatically update Wuthering_Hash.txt\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽 ",
+    "Code": true,
+    "ButtonCode": "UpdateHash",
+    "UpdateHash_FileName": "Wuthering_Hash.txt",
+    "UpdateHash_Content": "Aalto=93bbbdc0\nBaizhi=4a2b2eca\nBrant=5943f99a\nCalcharo=63e02559\nCamellya=7748c1d8\nCarlotta=4ba716ae\nChangli=d14bed8b\nChixia=1606ae41\nDanjin=6aefd9b3\nEncore=592add5c\nJianxin=9b60ec42\nJinhsi=243b7e59\nJinhsi2=493ff3b9\nJiyan=31b50c1d\nLingyang=8b3c13f9\nLumi=78b79747\nMortefi=7b29fedf\nPhoebe=\nRoccia=8d97c1bd\nRover Female=e8b5a730\nRover Male=c9db8418\nSanhua=33e4890f\nSanhua2=\nShorekeeper=0266ab77\nTaoqi=e2685889\nVerina=82aa82e1\nXiangli=ed536543\nYangyang=8ac49d65\nYinlin=42702199\nYouhu=03eea2d0\nYuanwu=51c230c2\nZani=\nZhezhi=c8b08afd",
+    "ButtonName": "click to automatically update Wuthering_Hash.txt",
+    "Image": true,
+    "Image_Location": "local",
+    "Image_Location2": "Wuthering_Off",
+    "Image_Type": "center"
   }
+
 ]
