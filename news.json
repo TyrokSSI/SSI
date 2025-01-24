@@ -51,7 +51,7 @@
     "Image_Type": "center"
   },
   {
-    "ID": 6,
+    "ID": 7,
     "Title": "New Update 7.7",
     "Date": "24/01/25",
     "Text": "𝐕 𝟕.𝟕\n-New characters added for all games(Genshin,Starrail and zzz) \n\nReminder: To update, just replace the files.\n\nClick on the button to go directly to the download link\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽 ",
@@ -62,7 +62,7 @@
     "Image": false
   },
     {
-    "ID": 7,
+    "ID": 8,
     "Title": "Hash List for Genshin",
     "Date": "24/01/25",
     "Text": "HashList Keyviewer Update for Genshin\n\nNote:\nIn the character menu, KeyViewer can show the keys of the character that is in the world.\nOne way to fix this is to open the menu several times until it correctly displays the character's keys.\nAnother way is to select a character like Kirara or Fischl and use their transformation ability before opening the menu.\nThis is difficult to fix, as the character's in-world hash sometimes interferes.\nIf anyone knows a better hash to use in KeyViewer or has any other solution, please let me know.  \n\nClick on the button to automatically update Genshin_Hash.txt\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽 ",
@@ -77,7 +77,7 @@
     "Image_Type": "center"
   },
     {
-    "ID":8,
+    "ID":9,
     "Title": "Tutorial Add Hash",
     "Date": "24/01/25",
     "Text": "Some games, I can't keep the Hash list updated.\n\nWhen new characters appear, click on Settings, KeyViewer, CreateList/Add missing Characters to complete the list with names, but you will have to search for the hash manually (there is more than one valid hash for each character).\n\n[Tutorial to get a character hash from the game]\n\n-You need to have 3dmigoto's hunting mode activated.\n\n1-[Skinselectimpact]->Settings->KeyViewer->TestHashList button\n2-[Game]->[F10]->press the key to open KeyViewer\n3-Go to Character Gallery and change characters, and check that their name and a number appear.\n4-If the name of another character appears on a character, it means that the other character has an incorrect hash, which is affecting other characters.\n5-When we find the character that has no hash, because no message appears, we do the following to find their number.\n6-Press [0] on the numeric keypad.\n7-Press the [+] button on the numeric keypad to reset.\n8-Press the [*] button until the character's body disappears.\n9-Press any other character. If the character has also disappeared, this number is not correct. Press the character whose hash you are looking for again and continue pressing [*] until the character's body disappears.\n10-Do this until the character disappears, and when you change to any other character, it does not disappear. Then that will be the correct number.\n11-Press [-] on the numeric keypad to copy the number and add it to the .txt file for the correct character (Program path/AdditionalFiles/Hash) (press open location in the program settings).\n12-[Skinselectimpact]->Settings->KeyViewer->OpenLocation->open the text file->paste the number into the character.\n13-Once this is done, to check that the hash is correct:\n14-[Skinselectimpact]->Settings->KeyViewer->TestHashList button\n15-[Game]->[F10]->press the key to open KeyViewer\n16-Check that the character is shown the message when selecting it in the gallery.\n\nNote: TestHashList needs the character folder to exist to work (GenerateFolders button).",
