@@ -90,6 +90,17 @@
     "Image_Location": "local",
     "Image_Location2": "ZZZ_Off",
     "Image_Type": "center"
+  },
+  {
+    "ID": 16,
+    "Title": "New Update 7.9",
+    "Date": "08/05/25",
+    "Text": "𝐕 𝟕.𝟗\n\n-New characters added for all games\n   [Genshin] Escoffier, Ifa, Skirk, Dahlia\n   [Starrail] Cipher, Hyacine\n   [ZZZ] Yixuan, Pan Yinhu, Ju Fufu\n   [Wuthering] Ciaccona, Lupa, Cartethyia, skins(Carlotta, Changli) \n\nReminder: Download the skinselectimpact file and the resources file. To update, just replace the files.\n\nClick on the button to go directly to the download link\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽 ",
+    "Code": true,
+    "ButtonCode": "OpenUrl",
+    "ButtonName": "Direct link Gamebanana",
+    "OpenUrl_Url": "https://gamebanana.com/tools/12839",
+    "Image": false
   }
 
 
