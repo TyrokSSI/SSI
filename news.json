@@ -10,42 +10,6 @@
     "Image_Location2": "News",
     "Image_Type": "center"
   },
-  {
-    "ID":2,
-    "Title": "New Update 7.5",
-    "Date": "27/12/24",
-    "Text": "𝐕 𝟕.𝟓\n- Now the program will read all the .ini files in the main folder and all subfolders. (can be disabled in settings)\n- A problem was found in some users, that if a mod had more than one .ini file, and you pressed the .ini open button, it did not open, or it did not open with the program selected in settings. Fixed\n- Notes button, failed in some users, fixed\n- Some users show horizontal scroll in the right menu, and mods window, some changes in the interface to prevent this scroll from appearing, (this scroll should not appear) if it continues to appear, send me a message.\n- The settings interface has been redesigned.\n- Optional, you can receive messages about new skins or skin updates created by tyrok (activate in settings in messages option)\n- Other minor changes\n\nReminder: To update, just replace the files.\n\nClick on the button to go directly to the download link\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽 ",
-    "Code": true,
-    "ButtonCode": "OpenUrl",
-    "ButtonName": "Direct link Gamebanana",
-    "OpenUrl_Url": "https://gamebanana.com/tools/12839",
-    "Image": true,
-    "Image_Location": "local",
-    "Image_Location2": "SSI_2",
-    "Image_Type": "center"
-  },
-  {
-    "ID": 3,
-    "Title": "New Update 7.6",
-    "Date": "05/01/25",
-    "Text": "𝐕 𝟕.6\n- Now keyviewer will also read the .ini of the subfolders. (The option to read subfolders of .ini files must be activated)\n- In mod key names, the word \"key\" or \"keyswap\" may be omitted. You have to activate it in settings\n- It has also been omitted to read Desktop.ini, for users who have this file\n\nReminder: To update, just replace the files.\n\nClick on the button to go directly to the download link\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽S🔽 ",
-    "Code": true,
-    "ButtonCode": "OpenUrl",
-    "ButtonName": "Direct link Gamebanana",
-    "OpenUrl_Url": "https://gamebanana.com/tools/12839",
-    "Image": false
-  },
-  {
-    "ID": 7,
-    "Title": "New Update 7.7",
-    "Date": "24/01/25",
-    "Text": "𝐕 𝟕.𝟕\n-New characters added for all games(Genshin,Starrail and zzz) \n\nReminder: To update, just replace the files.\n\nClick on the button to go directly to the download link\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽 ",
-    "Code": true,
-    "ButtonCode": "OpenUrl",
-    "ButtonName": "Direct link Gamebanana",
-    "OpenUrl_Url": "https://gamebanana.com/tools/12839",
-    "Image": false
-  },
     {
     "ID":9,
     "Title": "Tutorial Add Hash",
@@ -70,7 +34,7 @@
     "ID": 11,
     "Title": "KeyViewer List [Genshin]",
     "Date": "13/03/25",
-    "Text": "HashList KeyViewer Update for Genshin (13/03/25)\nThis file is only needed if you use KeyViewer\n\n\n\nClick on the button below to automatically update Genshin_Hash.txt\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽",
+    "Text": "HashList KeyViewer Update for Genshin (13/03/25)\nThis file is only needed if you use KeyViewer\n\nNote: This version was made on 13/03/25, characters may be missing, or the hash may have changed\n\nClick on the button below to automatically update Genshin_Hash.txt\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽",
     "Code": true,
     "ButtonCode": "UpdateHash",
     "UpdateHash_FileName": "Genshin_Hash.txt",
@@ -86,7 +50,7 @@
     "ID": 12,
     "Title": "KeyViewer List [Wuthering]",
     "Date": "13/03/25",
-    "Text": "HashList KeyViewer Update for Wuthering (13/03/25)\nThis file is only needed if you use KeyViewer\n\n\n\nClick on the button below to automatically update Wuthering_Hash.txt\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽",
+    "Text": "HashList KeyViewer Update for Wuthering (13/03/25)\nThis file is only needed if you use KeyViewer\n\nNote: This version was made on 13/03/25, characters may be missing, or the hash may have changed\n\nClick on the button below to automatically update Wuthering_Hash.txt\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽",
     "Code": true,
     "ButtonCode": "UpdateHash",
     "UpdateHash_FileName": "Wuthering_Hash.txt",
@@ -101,7 +65,7 @@
     "ID": 13,
     "Title": "KeyViewer List [Starrail]",
     "Date": "13/03/25",
-    "Text": "HashList KeyViewer Update for Starrail (13/03/25)\nThis file is only needed if you use KeyViewer\n\n\n\nClick on the button below to automatically update Starrail_Hash.txt\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽",
+    "Text": "HashList KeyViewer Update for Starrail (13/03/25)\nThis file is only needed if you use KeyViewer\n\nNote: This version was made on 13/03/25, characters may be missing, or the hash may have changed\n\nClick on the button below to automatically update Starrail_Hash.txt\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽",
     "Code": true,
     "ButtonCode": "UpdateHash",
     "UpdateHash_FileName": "Starrail_Hash.txt",
@@ -116,7 +80,7 @@
     "ID": 14,
     "Title": "KeyViewer List [ZZZ]",
     "Date": "13/03/25",
-    "Text": "HashList KeyViewer Update for ZZZ (13/03/25)\nThis file is only needed if you use KeyViewer\n\n\n\nClick on the button below to automatically update ZZZ_Hash.txt\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽",
+    "Text": "HashList KeyViewer Update for ZZZ (13/03/25)\nThis file is only needed if you use KeyViewer\n\nNote: This version was made on 13/03/25, characters may be missing, or the hash may have changed\n\nClick on the button below to automatically update ZZZ_Hash.txt\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽",
     "Code": true,
     "ButtonCode": "UpdateHash",
     "UpdateHash_FileName": "ZZZ_Hash.txt",
@@ -126,8 +90,21 @@
     "Image_Location": "local",
     "Image_Location2": "ZZZ_Off",
     "Image_Type": "center"
+  },
+  {
+    "ID": 15,
+    "Title": "New Update 7.9",
+    "Date": "08/05/25",
+    "Text": "𝐕 𝟕.𝟗\n\n-New characters added for all games\n   [Genshin] Escoffier, Ifa, Skirk, Dahlia\n   [Starrail] Cipher, Hyacine\n   [ZZZ] Yixuan, Pan Yinhu, Ju Fufu\n   [Wuthering] Ciaccona, Lupa, Cartethyia, skins(Carlotta, Changli) \n\nReminder: Download the skinselectimpact file and the resources file. To update, just replace the files.\n\nClick on the button to go directly to the download link\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽 ",
+    "Code": true,
+    "ButtonCode": "OpenUrl",
+    "ButtonName": "Direct link Gamebanana",
+    "OpenUrl_Url": "https://gamebanana.com/tools/12839",
+    "Image": false
   }
+
 
   
 ]
+
 
