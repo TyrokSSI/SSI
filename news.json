@@ -101,7 +101,30 @@
     "ButtonName": "Direct link Gamebanana",
     "OpenUrl_Url": "https://gamebanana.com/tools/12839",
     "Image": false
+  },
+    {
+    "ID": 18,
+    "Title": "New Update 7.9.1",
+    "Date": "10/07/25",
+    "Text": "𝐕 𝟕.𝟗.𝟏\n\n-New characters added for all games\n   [Genshin] Ineffa\n   [Starrail] Archer, Phainon, Saber, Hysilens, Cerydra \n   [ZZZ] Yuzuha, Alice, skins(Yuzuha2, Alice2, Belle2, Belle3, Wise2, Wise3, Yixuan2)\n   [Wuthering] Phrolova, Chisa, Qiuyuan, Galbrena, Augusta, Iuno  \n\nReminder: Download the skinselectimpact file and the resources file. To update, just replace the files.\n\nClick on the button to go directly to the download link\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽 ",
+    "Code": true,
+    "ButtonCode": "OpenUrl",
+    "ButtonName": "Direct link Gamebanana",
+    "OpenUrl_Url": "https://gamebanana.com/tools/12839",
+    "Image": false
+  },
+   {
+    "ID": 19,
+    "Title": "Alternative Link V-7.9.1",
+    "Date": "11/07/25",
+    "Text": "On GameBanana, the program needs to be reviewed by a moderator. Since I don't know how long that will take, I'm leaving a link to the same file on Mega. In case anyone wants to download it.\n\nhttps://mega.nz/file/YOdSWZDT#r_dQaG4bZhuuLQAUXUAvFAuPwhc1d37T2hTvujaa5SA\n\nThe update only includes new characters.\n\nClick on the button to go directly to the download link\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽 ",
+    "Code": true,
+    "ButtonCode": "OpenUrl",
+    "ButtonName": "Direct link Mega",
+    "OpenUrl_Url": "https://mega.nz/file/YOdSWZDT#r_dQaG4bZhuuLQAUXUAvFAuPwhc1d37T2hTvujaa5SA",
+    "Image": false
   }
+
 
 
   
