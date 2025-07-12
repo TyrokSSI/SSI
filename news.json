@@ -34,7 +34,7 @@
     "ID": 11,
     "Title": "KeyViewer List [Genshin]",
     "Date": "13/03/25",
-    "Text": "HashList KeyViewer Update for Genshin (13/03/25)\nThis file is only needed if you use KeyViewer\n\nNote: This version was made on 13/03/25, characters may be missing, or the hash may have changed\n\nClick on the button below to automatically update Genshin_Hash.txt\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽",
+    "Text": "WARNING: Pressing the button will remove the old text file you have. If you already have a more updated file, do not press it.\n\n\nHashList KeyViewer Update for Genshin (13/03/25)\nThis file is only needed if you use KeyViewer\n\nNote: This version was made on 13/03/25, characters may be missing, or the hash may have changed\n\nClick on the button below to automatically update Genshin_Hash.txt\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽",
     "Code": true,
     "ButtonCode": "UpdateHash",
     "UpdateHash_FileName": "Genshin_Hash.txt",
