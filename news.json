@@ -112,11 +112,34 @@
     "ButtonName": "Direct link Gamebanana",
     "OpenUrl_Url": "https://gamebanana.com/tools/12839",
     "Image": false
+  },
+
+      {
+    "ID": 20,
+    "Title": "New Update 7.9.2",
+    "Date": "09/09/25",
+    "Text": "𝐕 7.9.2\n\n-New characters added for all games \n\n Download the skinselectimpact file and the resources file. To update, just replace the files.\n\nClick on the button to go directly to the download link\n🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽🔽 ",
+    "Code": true,
+    "ButtonCode": "OpenUrl",
+    "ButtonName": "Direct link Gamebanana",
+    "OpenUrl_Url": "https://gamebanana.com/tools/12839",
+    "Image": false
+  },
+
+      {
+    "ID": 21,
+    "Title": "V.8 Info and Feedback",
+    "Date": "09/09/25",
+    "Text": "Hello! I’m currently working on version 8 and completely rebuilding the program, since working with the current version has become very complicated.\n\nSome essential features will be added, such as the ability for users to add characters or folders themselves, without having to wait for updates.\n\nYou can leave suggestions or feedback for this new version in the comments on GameBanana.",
+    "Code": true,
+    "ButtonCode": "OpenUrl",
+    "ButtonName": "Direct link Gamebanana",
+    "OpenUrl_Url": "https://gamebanana.com/tools/12839",
+    "Image": false
   }
-
-
 
   
 ]
+
 
 
