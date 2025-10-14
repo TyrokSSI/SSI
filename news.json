@@ -136,6 +136,17 @@
     "ButtonName": "Direct link Gamebanana",
     "OpenUrl_Url": "https://gamebanana.com/tools/12839",
     "Image": false
+  },
+   {
+    "ID": 23,
+    "Title": "V.8 Relase",
+    "Date": "15/10/25",
+    "Text": "V 8.0 Release\n• Completely new and redesigned program (different from the old version).\n• You can now create any number of presets.\n• You can now create any number of shortcuts to files or folders.\n• You can now add as many characters as you want.\n• Highly customizable interface.\n• Sort mods in multiple ways.\n• Improved .ini file reading.\n• Search all .ini cycles automatically.\n• Move or duplicate mods easily.\n• Create empty mods directly from the program.\n• Drag folders into the Mods panel, or drag anything into an existing mod.\n• Many other improvements.",
+    "Code": true,
+    "ButtonCode": "OpenUrl",
+    "ButtonName": "Direct link Gamebanana",
+    "OpenUrl_Url": "https://gamebanana.com/tools/12839",
+    "Image": false
   }
 
   
